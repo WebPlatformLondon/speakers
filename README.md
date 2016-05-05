@@ -1,5 +1,6 @@
-# Web Platform London talks
-===========================
+Web Platform London talks
+=========================
+
 A repo for organising talk proposals and discussing talks with speakers
 
 ## Talk Format
